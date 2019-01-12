@@ -1,0 +1,44 @@
+
+/* Body */
+
+body {
+	background-color: FloralWhite;
+}
+
+
+/* Address */
+
+address {
+	color:DimGray; 
+	text-align: center;
+}
+
+
+/* Paragraph */
+
+p {
+	color:DarkSlateGray;
+}
+
+#pDIM{
+	color:DimGray;
+}
+
+p.error{
+	color: Red;
+}
+
+
+/* Links */
+
+a:link {
+}
+
+a:visited {
+}
+
+a:hover {
+}
+
+a:active {
+}
