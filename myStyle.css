@@ -29,6 +29,13 @@ p.error{
 }
 
 
+
+/* Container */
+
+
+
+
+
 /* Links */
 
 a:link {
@@ -41,4 +48,9 @@ a:hover {
 }
 
 a:active {
+}
+
+
+.cardButton {
+	background-color: FloralWhite;
 }
